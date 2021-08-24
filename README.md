@@ -1,4 +1,4 @@
-# Pig Proteomics Database
+# Building a bioinformatics tool for generating a more reliable protein sequence database for Sus scrofa cardiac proteomics studies
 
 Contributors: Sartaaj Khan, Alexander Pelletier
 
